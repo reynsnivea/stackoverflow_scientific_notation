@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1534497368466.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "18|58|60|0|\n61|60|99|0|\n",
+    "hash" : "2758454720",
+    "id" : "CD52BE7",
+    "lastKnownWriteTime" : 1534499116,
+    "last_content_update" : 1534499116062,
+    "path" : "C:/Users/reynsni/Desktop/example/import_export.R",
+    "project_path" : "import_export.R",
+    "properties" : {
+        "cursorPosition" : "18,0",
+        "docOutlineVisible" : "1",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
